@@ -20,7 +20,7 @@ assert "Google" in driver.title
 #검색 입력 부분에 커서를 올리고
 #검색 입력 부분에 다양한 명령을 내리기 위해 elem 변수에 할당한다
 elem = driver.find_element_by_name("q")
-elem.send_keys("오픈서포트") 
+elem.send_keys("키워드") 
 elem.submit()
 
 
