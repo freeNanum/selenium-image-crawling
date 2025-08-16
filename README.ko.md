@@ -1,3 +1,6 @@
+<!-- Language Selection -->
+English ([README.en.md](README.en.md)) | 한국어
+
 # Google 이미지용 Selenium 이미지 크롤러
 
 이 프로젝트는 Selenium을 활용하여 Google 이미지에서 이미지를 크롤링하고 다운로드하는 과정을 자동화하는 Python 스크립트를 제공합니다. 사용자는 검색어, 다운로드할 이미지 수, 이미지를 저장할 대상 디렉토리를 지정할 수 있습니다.
@@ -23,7 +26,7 @@
 1.  **저장소 복제 (아직 하지 않았다면):**
     ```bash
     git clone https://github.com/your-username/selenium-image-crawling.git
-    cd selenium-image-crawling
+    cd selenium-image-caching
     ```
     (참고: 이 프로젝트가 GitHub에 호스팅되어 있다면 `your-username`을 실제 GitHub 사용자 이름으로 바꾸십시오.)
 
